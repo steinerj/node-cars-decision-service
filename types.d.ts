@@ -1,1 +1,1 @@
-declare module "rental-insurance";
+declare module "rentalInsurance";
